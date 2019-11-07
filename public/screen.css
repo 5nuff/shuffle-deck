@@ -9,4 +9,14 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: green;
+}
+.face-down {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.face-up {
+  display: flex;
+  justify-content: center;
 }
